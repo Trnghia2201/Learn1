@@ -10,3 +10,4 @@ function tinhTong() {
   c = 2;
   console.log(a + b + c);
 }
+tinhTong();
