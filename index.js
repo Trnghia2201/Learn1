@@ -5,7 +5,8 @@ function doIt() {
 
 function tinhTong() {
   var a, b;
-  a = 10;
-  b = 20;
-  console.log(a + b);
+  a = 1000;
+  b = 2000;
+  c = 2;
+  console.log(a + b + c);
 }
